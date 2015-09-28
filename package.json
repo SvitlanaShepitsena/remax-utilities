@@ -8,5 +8,8 @@
   },
   "repository": "https://github.com/SvitlanaShepitsena/remax-utilities.git",
   "author": "Oslick",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "co": "^4.6.0"
+  }
 }
