@@ -10,6 +10,8 @@
   "author": "Oslick",
   "license": "ISC",
   "devDependencies": {
-    "co": "^4.6.0"
+    "co": "^4.6.0",
+    "firebase": "^2.3.0",
+    "lodash": "^3.10.1"
   }
 }
